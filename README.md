@@ -19,7 +19,7 @@ This project is my personal game project started in my Junior Year. Everything i
 <h2>Showreel of Ecliptic Depths</h2>
 
 <p align="center">
-Jukebox Interaction (https://youtu.be/Zn1F-x8d-Yg)
+(https://youtu.be/Zn1F-x8d-Yg)
 </p>
 
 <h2>Screenshots</h2>
